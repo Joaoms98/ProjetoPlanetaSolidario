@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+.align{
+    flex-wrap: wrap ;
+    justify-content: flex-end ;
+    align-items: flex-end ; 
+}
+
+.donation {
+    margin: auto;
+    display: flex;
+    flex-direction: row;   
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    font-size: 100px;
+}
+
+.doar {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    margin: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;  
+}
+
+.alinhar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8px;
+}
+
+.doacao {
+    background-color: rgba(255, 255, 255, 0.712);
+    border-radius: 5px;
+    width: 150px;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+}
+
+.btnCadastrar2 {
+    background-color: #8A6035 !important;
+    font-weight: bold !important;
+    margin: 100px;
+    padding: 50px;
+}
+
+.btnCadastrar2:hover {
+    background-color: #8A6035 !important;
+    font-weight: bold !important;
+    cursor: pointer;
+    -webkit-filter: drop-shadow(1px 1px 1px #d3a77b);
+    filter: drop-shadow(1px 1px 1px #000000);
+    opacity: 2000;
+}
+
+.align{
+    padding-left:30px;
+    padding-top: 10px;
+}
+
+

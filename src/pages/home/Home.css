@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+.navbarmenu{
+    height: 80px;
+    display: flex;
+    background-color: transparent !important; 
+    align-items: center;
+    position: sticky;
+}
+.navbarbutton{
+    display: flex;
+    width: 90px;
+    padding-left: 80%;
+}
+.navbarmenu button{
+    font-family: 'Montserrat', sans-serif;
+    border: 1px;
+    cursor: pointer;
+    font-size: medium;
+    border-radius: 5px;
+    padding: 0px 5px;
+    font-weight: bold !important;
+    -webkit-filter: drop-shadow(1px 1px 1px #d3a77b) !important;
+    filter: drop-shadow(1px 1px 1px #585858) !important;
+}
+.logo{
+    padding-left: 170px;
+    padding-top: 50px;
+}
+.distancia{
+    padding: 20px;
+}
+
+
+
+
